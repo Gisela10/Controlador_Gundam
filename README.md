@@ -1,4 +1,4 @@
-gundam_robot Panama
+GUNDAM_ROBOT PANAMA
 
 +++++++++++++++++++++++
 Configurar el ambiente de trabajao
