@@ -1,7 +1,7 @@
 GUNDAM_ROBOT PANAMA
 
 +++++++++++++++++++++++
-Configurar el ambiente de trabajao
+Configurar el ambiente de trabajo
 
 	abrir una terminal
 
